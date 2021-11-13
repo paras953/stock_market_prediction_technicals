@@ -4,7 +4,6 @@ The notebook in this repo has all the EDA and logistic regression code that uses
 
 Train and test approach.
 <ul>
-<li><b> Train data </b> -> Data from 29th September , 30th September and for target creation purposes 1st October 2021</li>
-<li><b> Text data </b> -> Data from 29th September , 30th September and for target creation purposes 1st October 2021</li>
-  
+<li><b> Train data </b> -> Data from 29th September , 30th September (X_train) and 1st October 2021 (Y_train)</li>
+<li><b> Test data </b> -> Data from 1st October , 2nd October (X_test) and 5th October 2021 (Y_test)</li>
 </ul>
