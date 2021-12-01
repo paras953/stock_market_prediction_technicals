@@ -7,3 +7,5 @@ Train and test approach.
 <li><b> Train data </b> -> Data from 29th September , 30th September (X_train) and 1st October 2021 (Y_train)</li>
 <li><b> Test data </b> -> Data from 5th October , 6th October (X_test) and 7th October 2021 (Y_test)</li>
 </ul>
+
+For the entire workflow checkout my blog on Medium https://medium.com/@parasdoshi953/stock-market-prediction-using-technical-data-61420a7486a9
